@@ -18,7 +18,7 @@ Revision: `SV06ZJB_V1.4`
 
 \* _Note, Molex PicoBlade are often mischaracterized as JST 1.25mm (the name under which they are usually sold online)._
 
-## Heatblock
+## Hotend
 
 <img src="../images/heatblock/heatblock-display.jpg" height="100" alt='Heatblock image'/>
 
