@@ -1,6 +1,6 @@
-# Hotend
+# Print Head
 
-PCB
+## PCB
 
 Revision: `SV06ZJB_V1.4`
 
