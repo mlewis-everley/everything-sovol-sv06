@@ -1,5 +1,7 @@
 # Initial Setup Steps
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
+
 It is advisable to perform these steps in addition to the initial setup outlined in the printer's instructions when first building the printer.
 
 _\* These steps should be followed for <u>any</u> budget printer_

@@ -1,5 +1,7 @@
 # PSU Related
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
+
 | Brand       | Model    | Wattage | Voltage |
 | ----------- | -------- | ------- | ------- |
 | Cheng Liang | P360W24V | 360W    | 24V     |
@@ -33,3 +35,4 @@
 | SV06      | JST-XA | 2.54mm |
 | SV06 Plus | JST-XH | 2.54mm |
 
+[Back](../README.md)

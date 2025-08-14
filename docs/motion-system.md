@@ -1,5 +1,7 @@
 # Motion System
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
+
 ## Lead Screws
 
 <img src="../images/lead-screw.png " width="300" alt='Lead screw' />
@@ -88,4 +90,4 @@ _Coming soon._
 - In case you need to replace it, you can _probably_ fit a stepper motor with a height of 42mm.
 - A stepper motor with a height of 40mm will certainly fit.
 
-
+[Back](../README.md)

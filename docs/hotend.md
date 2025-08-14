@@ -1,5 +1,7 @@
 # Print Head
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
+
 ## PCB
 
 Revision: `SV06ZJB_V1.4`
@@ -188,3 +190,4 @@ After over 600 hours of print time, I saw hardly any wear on the gears in the ex
 - [This](https://s.click.aliexpress.com/e/_DE2NRWZ) is the Orbiter kit that I bought and took measurements from, but any other V1.5 kit should do fine.
 - [Mellow](https://s.click.aliexpress.com/e/_DdpgYhT) has a great option as well.
 
+[Back](../README.md)

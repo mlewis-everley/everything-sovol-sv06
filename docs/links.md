@@ -1,6 +1,6 @@
 # Links
 
-Buy me a [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
 
 ## Sovol Official Links
 
@@ -14,3 +14,5 @@ Buy me a [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com
 - [RP2040-Zero ADXL345 Connection Klipper](https://github.com/bassamanator/rp2040-zero-adxl345-klipper)
 - ⭐⭐⭐⭐⭐ [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide)
 - [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
+
+[Back](../README.md)
