@@ -1,5 +1,6 @@
 # Everything Sovol SV06
-Buy me a [<img src="./images/misc/logo_white_stroke.png" height="20" alt='Ko-fi'/>](https://ko-fi.com/bassamanator).
+B
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
 
 A repository containing specifications of the Sovol SV06 3D printer parts, as well as links to aftermarket replacement parts.
 
