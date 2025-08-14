@@ -16,7 +16,7 @@ Please ⭐ star this repository! Support [open source](https://en.wikipedia.org/
 
 # Contents
 
-1. [Initial Setup Steps](./docs/initial-setup-steps.md)
+1. [Initial Setup Steps](./docs/initial-setup-checks.md)
 2. [Print Head](./docs/hotend.md)
    - [PCB](./docs/hotend.md#pcb)
    - [Heatblock](./docs/hotend.md#heatblock)
