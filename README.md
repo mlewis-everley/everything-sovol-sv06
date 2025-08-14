@@ -1,5 +1,5 @@
 # Everything Sovol SV06
-B
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0HIHTH)
 
 A repository containing specifications of the Sovol SV06 3D printer parts, as well as links to aftermarket replacement parts.
