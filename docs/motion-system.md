@@ -72,4 +72,20 @@ _Coming soon._
 
 ![Smooth Idlers](./images/smooth-idler.jpg)
 
-# PSU Related
+## Stepper Motors
+
+<img src="../images/stepper-motor.webp" width="300" alt='Stepper motor'/>
+
+| Location   | Motor   | Height | Peak current                | Step angle |
+| ---------- | ------- | ------ | --------------------------- | ---------- |
+| Extruder   | Nema 17 | 22     | 0.8A (_needs verification_) | 1.8°       |
+| X-Gantry   | Nema 17 | 34     | 1.3A                        | 1.8°       |
+| Y-Axis     | Nema 17 | 34     | 1.3A                        | 1.8°       |
+| 2 x Z-Axis | Nema 17 | 34     | 1.3A                        | 1.8°       |
+
+### Y-Axis
+
+- In case you need to replace it, you can _probably_ fit a stepper motor with a height of 42mm.
+- A stepper motor with a height of 40mm will certainly fit.
+
+
